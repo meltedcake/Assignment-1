@@ -1,0 +1,11 @@
+build/
+web/
+external/
+_deps/
+.gradle/
+.idea/
+android/app/build/
+android/app/.cxx/
+android/.gradle/
+android/local.properties
+*.log
